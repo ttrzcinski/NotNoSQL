@@ -1,0 +1,3 @@
+# [key]=[value]
+TEST_1=Something
+TEST_2=Something_Else
